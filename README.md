@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 PyBot — Rule-Based Chatbot Web Application
 
 A clean, modern, and beginner-friendly **Rule-Based Chatbot web application** built with **Python Flask** for the backend and **HTML5, CSS3, and JavaScript** for the frontend.
@@ -84,3 +85,6 @@ Visit the local server address in your web browser:
 ```
 http://127.0.0.1:5000
 ```
+=======
+# AI-chat-box
+>>>>>>> b7d9d647916bffb21f61809a4b9a3d29c803fa1b
